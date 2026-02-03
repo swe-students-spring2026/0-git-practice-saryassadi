@@ -13,4 +13,4 @@ less abstract and more predictable, which is important when collaborating on rea
 engineering projects.
 
 ## Ethan's edit
-The distinction between Git's "plumbing" commands and "porcelain" commands is especially interesting. It makes sense that there would be a lower-level class of commands and a higher-level, more user-friendly class of commands, but I never thought about it this way. The names are also cute. 
+The distinction between Git's "plumbing" commands and "porcelain" commands is interesting. It makes sense that there would be a lower-level class of commands and a higher-level, more user-friendly class of commands, but I never thought about it this way. The names are also cute. 
